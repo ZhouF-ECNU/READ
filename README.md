@@ -19,4 +19,7 @@ pip install -r requirements.txt
 ## Full paper source:
 https://doi.org/10.1145/3711896.3737100
 
+## Citation:
+Shou H., Lu G., Pavlovski M., Zhou F., "READ: Robust and Efficient Anomaly Detection under Data Contamination and Limited Supervision", Proc. 31th Knowledge Discovery and Data Mining (KDD'25), 2025.
+
 
